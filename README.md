@@ -1,4 +1,4 @@
-## Base Account SDK
+### Base Account SDK
 
 [![npm](https://img.shields.io/npm/v/@base-org/account.svg)](https://www.npmjs.com/package/@base-org/account)
 
